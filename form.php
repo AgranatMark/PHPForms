@@ -12,6 +12,9 @@
 <option value="large">Large</option>
 </select></p>
 
+<p>Gender: <input type="radio" name="gender" value="girl"/>Girl
+<input type="radio" name="gender" value="boy"/>Boy</p>
+
 <input type="submit" name="submit" value="Submit Button"/>
 </BODY>
 </HTML>
